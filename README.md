@@ -3,7 +3,9 @@
 I. Kontrola genów Model zaproponowany przez Griffitha, w którym X to koncentracja pewnego białka proporcjonalna do
 aktywności opisywanego genu, a Y to koncentracja odpowiedniego mRNA,
 
-$$\dot{X} = -\alfa X+Y$$
+$$\dot{X} = -\alpha X+Y$$
+
+
 $$\dot{Y} = \frac{x^2}{1+X^2}-\beta Y$$
 
 parametry alfa i beta dodatnie
